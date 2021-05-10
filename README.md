@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @rowantrollope
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning smartcontracts and developing on ethereum
-- 💞️ I’m looking to collaborate on great ideas
 - 📫 How to reach me @rowantrollope on twitter
 
 <!---
